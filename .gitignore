@@ -1,11 +1,24 @@
+# Сборка
 *.class
-*.db
-messenger_data.db
-Passwords.txt
-UsersCSV.txt
-target/
 out/
+target/
+build/
+
+# IDE
 .idea/
 *.iml
 .vscode/
 .DS_Store
+
+# Локальные базы и данные
+*.db
+*.sqlite
+*.sqlite3
+
+# Сгенерированные файлы
+Passwords.txt
+UsersCSV.txt
+docs/generated/
+
+# Логи
+*.log
