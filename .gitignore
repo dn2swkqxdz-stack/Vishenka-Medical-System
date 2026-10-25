@@ -1,0 +1,11 @@
+*.class
+*.db
+messenger_data.db
+Passwords.txt
+UsersCSV.txt
+target/
+out/
+.idea/
+*.iml
+.vscode/
+.DS_Store
