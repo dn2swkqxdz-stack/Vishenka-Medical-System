@@ -1,8 +1,9 @@
-# Сборка
+# Сборка и упаковка
 *.class
 out/
 target/
 build/
+.zip
 
 # IDE
 .idea/
